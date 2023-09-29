@@ -4,7 +4,7 @@ Sure, here's a sample README file:
 
 # Web Scraper for IndiaCorpLaw
 
-This Python script scrapes articles from the first five pages of [IndiaCorpLaw](https://indiacorplaw.in/) and saves the data in a JSON file. The script is scheduled to run every day at 14:22.
+This Python script scrapes articles from the first five pages of [IndiaCorpLaw](https://indiacorplaw.in/) and saves the data in a JSON file. The script is scheduled to run every day at 16:30.
 
 ## How to Run the Script
 
@@ -21,7 +21,7 @@ This Python script scrapes articles from the first five pages of [IndiaCorpLaw](
     python scraper.py
     ```
 
-The script will start running and will scrape the website every day at 14:22.
+The script will start running and will scrape the website every day at 16:30.
 
 ## Notes
 
