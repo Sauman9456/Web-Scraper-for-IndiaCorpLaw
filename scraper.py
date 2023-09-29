@@ -45,7 +45,7 @@ def job():
     print('Scraping complete!')
 
 # Schedule the job every day at a specific time
-schedule.every().day.at("14:22").do(job)
+schedule.every().day.at("16:30").do(job)
 
 while True:
     schedule.run_pending()
